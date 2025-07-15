@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 ![arianty](img/github-header-image.png)
 
+#### Skills
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,laravel,css,html&perline=3)](https://skillicons.dev)
+
 #### Connect with Me
-![https://instagram.com/wike.aaaa](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://instagram.com/wike.aaaa](https://skillicons.dev/icons?i=instagram,&perline=3)
