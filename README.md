@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,laravel,css,html&perline=3)](https://skillicons.dev)
 
 #### Connect with Me
-![https://instagram.com/wike.aaaa](https://skillicons.dev/icons?i=instagram,&perline=3)
+<a href="https://instagram.com/wike.aaaa" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=instagram&perline=3" alt="Instagram Profile" style="width:50px; height:50px;">
+</a>
