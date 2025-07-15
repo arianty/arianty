@@ -1,4 +1,4 @@
-## Hello World! I'm Wieke Arianty 👋
+## Hello! I'm Wieke Arianty 👋
 
 <!--
 **arianty/arianty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<<<<<<< HEAD
 ![arianty](img/github-header-image.png)
+
